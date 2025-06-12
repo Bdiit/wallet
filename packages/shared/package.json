@@ -13,8 +13,8 @@
     "@tonkeeper/uikit": "*",
     "date-fns": "^2.30.0",
     "react": "18.2.0",
-    "react-native": "0.72.6",
-    "react-native-iap": "^12.10.8",
+    "react-native": "0.74.0",
+    "react-native-iap": "^12.14.1",
     "react-native-qrcode-styled": "^0.2.1",
     "react-native-web": "~0.18.10"
   },
